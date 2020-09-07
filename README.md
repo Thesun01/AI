@@ -1,2 +1,1 @@
-# Hello-HTML-
-Basic code of HLML 
+This is The Basic Model of AI 
